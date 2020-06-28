@@ -1,0 +1,9 @@
+Temperatura  >  
+umidade      
+Senha        
+Temp Baixa  XX
+Temp Alta   XX
+Umid Baixa  XX
+Umid Alta   XX
+  (Habilitar)  
+ (Desabilitar)  

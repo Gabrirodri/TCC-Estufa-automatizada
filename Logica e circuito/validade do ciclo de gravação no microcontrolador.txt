@@ -1,0 +1,3 @@
+Se for utilizado, alterando os valores 5 vezes ao mês, de cada opção do menu, o sistema tem validade de 15 anos. Devido a gravação da EEPROM, que tem limite de 1000000 de ciclos.
+Caso for utilizado, alterando os valores 1 vez ao mês, de cada opção do menu, o sistema tem validade de 80 anos. Devido a gravação da EEPROM, que tem limete de 100000 de ciclos.
+Os dados armazenados na memoria EEPROM duram 40 anos.

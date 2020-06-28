@@ -1,0 +1,9 @@
+encontrar o bico nebulizador ideal
+dimensionar o projeto em um tamanho limitado
+encontrar recipiente para fazer os canteiros
+programar um menu
+programar o keypad
+Gravar EEPROM, vetores, ponteiros, struct para armazenar os dados, transformar inteiro em vetor
+programar DHT11
+Inteferencias no lcd, keypad, interface
+fixação da porta automatica

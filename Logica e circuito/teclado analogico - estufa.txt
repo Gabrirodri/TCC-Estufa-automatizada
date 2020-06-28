@@ -1,0 +1,20 @@
+Teclado feito com divisao de tensão analogica:
+
+cada resistencia corresponde um sinal analogico que é optido pela porta do microcontrolador
+
+		 TENSÃO (V)	Digital	      Aprox.
+
+sem botao -	0.0296208    	6,06		6
+				
+1 - 1.5M  -	0.333972	68,39		70
+2 - 820k  -	0.562647	115,23		115
+3 - 470k  -	0.893286	182,94		180
+4 - 330k  -	1.17647		240,94		240
+5 - 220k  -	1.57312		322,17		320
+6 - 150k  -	2.00771		411,17		410
+
+Tensão max = 5V
+Valor max ADC = 1024
+
+1024/5 = 204,8
+
